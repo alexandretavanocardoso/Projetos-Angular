@@ -6,5 +6,5 @@
 
 ### Projetos usando o Angular
 
-#### Sistema Web da Netflix
+-#### Sistema Web da Netflix
 
